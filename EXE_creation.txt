@@ -1,0 +1,1 @@
+python -m pyInstaller --onefile serial_read.py
