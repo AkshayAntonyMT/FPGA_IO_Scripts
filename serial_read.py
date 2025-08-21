@@ -1,7 +1,7 @@
 import serial
 
 # === Configure your serial port ===
-port = 'COM8'         # Replace with your COM port (e.g., 'COM4', '/dev/ttyUSB0')
+port = 'COM10'         # Replace with your COM port (e.g., 'COM4', '/dev/ttyUSB0')
 baudrate = 115200     # Must match your FPGA UART baud rate
 
 # Open serial port
